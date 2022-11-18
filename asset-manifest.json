@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drapeaux/static/css/main.2d97f953.css",
+    "main.js": "/drapeaux/static/js/main.b8e94d61.js",
+    "static/media/main.jpg": "/drapeaux/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/drapeaux/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/drapeaux/index.html",
+    "main.2d97f953.css.map": "/drapeaux/static/css/main.2d97f953.css.map",
+    "main.b8e94d61.js.map": "/drapeaux/static/js/main.b8e94d61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d97f953.css",
+    "static/js/main.b8e94d61.js"
+  ]
+}
