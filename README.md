@@ -1,3 +1,14 @@
+Projet perso React afin d'afficher tous les drapeaux du monde. 
+Lorsque l'on clique sur un drapeau, on a les informations suivantes:
+-Nom du pays
+-Capitale
+-Population
+
+Possibilité de choisir le nombre de pays à afficher à l'écran.
+
+Possibilité de sélectionner un continent et ainsi voir tous les pays de ce dernier. On peut aussi revenir à l'ensemble des pays avec un bouton 'clear'.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
